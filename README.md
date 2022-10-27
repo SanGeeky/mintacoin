@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Mintacoin</h1>
   <!-- Badges -->
+  <a href="https://docs.mintacoin.co">
+    <img src="https://img.shields.io/badge/docs-docs.mintacoin.co-blue" alt="Mintacoin Documentation">
+  </a>
   <img src="https://img.shields.io/github/workflow/status/kommitters/mintacoin/Mintacoin%20CI/main" alt="Build Status">
   <a href="https://coveralls.io/github/kommitters/mintacoin">
     <img src="https://coveralls.io/repos/github/kommitters/mintacoin/badge.svg" alt="Coverage Status">
-  </a>
-  <a href="https://docs.mintacoin.co">
-    <img src="https://img.shields.io/badge/docs-docs.mintacoin.co-blue" alt="Mintacoin Documentation">
   </a>
 </div>
 <br>
