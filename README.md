@@ -111,6 +111,14 @@ For more information on how to contribute, please refer to our [CONTRIBUTING][co
 
 This library is licensed under an MIT license. See [LICENSE][license] for details.
 
+## Credits
+
+Special thanks to the third party tools used in this project.
+
+[<img src="https://2775338190-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Flogo%2FdsJtkfqtQJ5tuptZjC7U%2FGitBook-Lockup.svg?alt=media&token=57f2faa9-aae1-436e-bf34-8eea8dda709f"  width="250" height="100">][gitbook]
+
+[GitBook][gitbook] is the sponsor platform for the publishing of our documentation.
+
 ## Acknowledgements
 
 Made with 💙 by [kommitters Open Source](https://kommit.co)
@@ -126,3 +134,4 @@ Made with 💙 by [kommitters Open Source](https://kommit.co)
 [coc]: https://github.com/kommitters/mintacoin/blob/main/CODE_OF_CONDUCT.md
 [contributing]: https://github.com/kommitters/mintacoin/blob/main/CONTRIBUTING.md
 [license]: https://github.com/kommitters/mintacoin/blob/main/LICENSE
+[gitbook]: https://www.gitbook.com/
