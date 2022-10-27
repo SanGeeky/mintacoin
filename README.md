@@ -5,6 +5,9 @@
   <a href="https://coveralls.io/github/kommitters/mintacoin">
     <img src="https://coveralls.io/repos/github/kommitters/mintacoin/badge.svg" alt="Coverage Status">
   </a>
+  <a href="https://docs.mintacoin.co">
+    <img src="https://img.shields.io/badge/docs-docs.mintacoin.co-blue" alt="Mintacoin Documentation">
+  </a>
 </div>
 <br>
 
@@ -115,7 +118,7 @@ This library is licensed under an MIT license. See [LICENSE][license] for detail
 
 Special thanks to the third party tools used in this project.
 
-[<img src="https://2775338190-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Flogo%2FdsJtkfqtQJ5tuptZjC7U%2FGitBook-Lockup.svg?alt=media&token=57f2faa9-aae1-436e-bf34-8eea8dda709f"  width="250" height="100">][gitbook]
+[<img src="https://user-images.githubusercontent.com/39246879/198380259-b9615598-0dd2-4a35-9402-c7ac2896fa53.svg"  width="250" height="100">][gitbook]
 
 [GitBook][gitbook] is the sponsor platform for the publishing of our documentation.
 
